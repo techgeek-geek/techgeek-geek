@@ -6,3 +6,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 <b>[Active Directory Homelab](https://github.com/techgeek-geek/AD-Domain-Controller)</b>
+
+<h2>📄 Certifications</h2>
+
+[CompTIA Security+](https://www.credly.com/badges/f3f56662-db04-4353-a286-a21660b381a4/public_url)
