@@ -1,6 +1,7 @@
-## Hi, I'm Shamari
+<h1>Hi, I'm Shamari! </h1>
 
-<!--
+-<b>I'm an entry-level IT professional with a strong passion for technology, problem-solving, and continuous learning.
+
 **techgeek-geek/techgeek-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
